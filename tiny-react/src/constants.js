@@ -1,0 +1,2 @@
+export const KEY = 'bhvcyowp2rslkdgs5o9koutdj50algvhf73ql62l9aau0xac';
+export const TINY_CDN = "https://cdn.tiny.cloud/1/bhvcyowp2rslkdgs5o9koutdj50algvhf73ql62l9aau0xac/tinymce/5.8.2-114/tinymce.min.js";
